@@ -88,6 +88,10 @@ while True:
     key = cv.waitKey(10)
     if key == ord(' '):
         key = cv.waitKey()
+    if key == 13: # Enter
+        img_file = os.path.join(os.path.dirname(__file__), 'demo_ar.jpg')
+        cv.imwrite(img_file, img)
+        print(f"Saved {img_file}")
     if key == 27: # ESC
         break
 
