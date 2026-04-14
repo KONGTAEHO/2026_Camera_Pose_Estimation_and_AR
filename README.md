@@ -1,1 +1,0 @@
-# 2026_Camera_Pose_Estimation_and_AR
