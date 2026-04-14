@@ -28,10 +28,8 @@
 3. 알아낸 카메라 포즈 정보를 바탕으로 3D 피라미드를 2D 영상평면에 투영(`cv.projectPoints`)하여 렌더링합니다.
 4. 화면 좌측 상단에 실시간 카메라의 상대적 위치(XYZ)가 표시됩니다.
 
-<<<<<<< HEAD
+AR 물체 데모 이미지
 ![AR Demo](./AR/demo_ar.jpg)
 ---
 ![AR Demo](./AR/demo_ar1.jpg)
 =======
-![AR Demo](/AR/demo_ar.jpg)
->>>>>>> d29895b5fcd7ec3d7f2dd66cba80726bd2528fe7
